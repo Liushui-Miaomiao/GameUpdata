@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <updata>
-	<version majorVersion="0" minorVersion="1"/>
-	<notice>提取码：vuqw，更新胜利UI，游戏失去焦点暂停游戏，金手指增加F3一键重置双方角色。</notice>
+	<version majorVersion="0" minorVersion="2"/>
+	<notice>提取码：vuqw，更新自定义音效，图片再次优化压缩，随机开场OP，修复boss无法进行闯关的bug，air runtime已更新为32版本，更新OS信息显示，内存占用显示</notice>
 	<download_link url="https://pan.baidu.com/s/1koBSYlsA4RK8HM08YpDrmA"/>
 </updata>
